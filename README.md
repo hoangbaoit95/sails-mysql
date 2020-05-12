@@ -13,7 +13,12 @@ Install from NPM.
 
 ```bash
 # In your app:
-$ npm install sails-mysql
+$ npm install @hoangbaoit95/sails-mysql-azure
+```
+
+Test
+```bash
+MYSQL_ENV_MYSQL_PASSWORD=password MYSQL_ENV_MYSQL_DATABASE=sails_loadTest npm run test
 ```
 
 ## Sails Configuration
