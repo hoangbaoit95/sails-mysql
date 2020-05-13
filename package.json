@@ -1,6 +1,6 @@
 {
   "name": "sails-mysql-azure",
-  "version": "0.12.5",
+  "version": "0.12.6",
   "description": "MySQL adapter for Sails.js",
   "main": "lib/adapter.js",
   "scripts": {
